@@ -16,13 +16,17 @@ mccabe==0.6.1
 mypy-extensions==0.4.3
 packaging==20.7
 pathspec==0.8.1
+Pillow==8.0.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
 Pygments==2.7.2
 pyparsing==2.4.7
 pytz==2020.4
 regex==2020.11.13
+reportlab==3.5.56
 requests==2.25.0
+rst2pdf==0.98
+smartypants==2.0.1
 snowballstemmer==2.0.0
 Sphinx==3.3.1
 sphinxcontrib-applehelp==1.0.2
