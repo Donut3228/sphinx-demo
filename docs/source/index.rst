@@ -5,3 +5,4 @@ Sphinx demo project
    :maxdepth: 2
 
    basic_configuration
+   examples/
