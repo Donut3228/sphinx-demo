@@ -17,3 +17,5 @@ html_static_path = ["_static"]
 pdf_documents = [
     ("index", u"sphinx-demo", u"Sphinx demo project", u"Dmitriy Ponomar"),
 ]
+
+latex_elements = {"extraclassoptions": "openany,oneside"}
